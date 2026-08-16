@@ -215,3 +215,6 @@ This project demonstrates:
 MIT License
 
 Feel free to use, modify, and distribute this project.
+---
+
+## ⭐ If you found this project useful, consider giving it a star!
